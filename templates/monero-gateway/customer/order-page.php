@@ -40,7 +40,7 @@
             Total due:
             <strong class="monero_details_row">
                 <span class="monero_details_main">
-                    <span id="monero_total_due"></span> Monero
+                    <span id="monero_total_due"></span> XMR
                 </span>
                 <span class="monero_details_right button-row">
                     <button href="#" class="button clipboard" title="Copy Amount"
@@ -53,13 +53,13 @@
         <li style="display:none">
             Total order amount:
             <strong>
-                <span id="monero_total_amount"></span> Monero
+                <span id="monero_total_amount"></span> XMR
             </strong>
         </li>
         <li>
             Total paid:
             <strong>
-                <span id="monero_total_paid"></span> Monero
+                <span id="monero_total_paid"></span> XMR
             </strong>
         </li>
         <li>

@@ -5,15 +5,15 @@
     </tr>
     <tr>
         <td>Total amount</td>
-        <td><?php echo $details['amount_total_formatted']; ?> Monero</td>
+        <td><?php echo $details['amount_total_formatted']; ?> XMR</td>
     </tr>
     <tr>
         <td>Total paid</td>
-        <td><?php echo $details['amount_paid_formatted']; ?> Monero</td>
+        <td><?php echo $details['amount_paid_formatted']; ?> XMR</td>
     </tr>
     <tr>
         <td>Total due</td>
-        <td><?php echo $details['amount_due_formatted']; ?> Monero</td>
+        <td><?php echo $details['amount_due_formatted']; ?> XMR</td>
     </tr>
     <tr>
         <td>Order age</td>

@@ -37,7 +37,7 @@
                 <td class="td" style="text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; word-wrap: break-word; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
                     TOTAL DUE: <br/>
                     <strong>
-                        <?php echo $details['amount_total_formatted']; ?> Monero
+                        <?php echo $details['amount_total_formatted']; ?> XMR
                     </strong>
                 </td>
             </tr>
