@@ -55,7 +55,7 @@ Note on security: using this option, while the most secure, requires you to run 
 * `Order valid time` - Number of seconds after order is placed that the transaction must be seen in the mempool. (Default: 3600 [1 hour])
 * `Number of confirmations` - Number of confirmations the transaction must recieve before the order is marked as complete. Use `0` for nearly instant confirmation. (Default: 5)
 * `Confirmation Type` - Confirm transactions with either your viewkey, or by using `monero-wallet-rpc`. (Default: viewkey)
-* `Monero Address` (if confirmation type is viewkey) - Your public Monero address starting with MoneroL. Kurz addresses are not supported. (No default)
+* `Monero Address` (if confirmation type is viewkey) - Your public Monero address starting with 4. (No default)
 * `Secret Viewkey` (if confirmation type is viewkey) - Your *private* viewkey (No default)
 * `Monero wallet RPC Host/IP` (if confirmation type is `monero-wallet-rpc`) - IP address where the wallet rpc is running. It is highly discouraged to run the wallet anywhere other than the local server! (Default: 127.0.0.1)
 * `Monero wallet RPC port` (if confirmation type is `monero-wallet-rpc`) - Port the wallet rpc is bound to with the `--rpc-bind-port` argument. (Default 18080)
